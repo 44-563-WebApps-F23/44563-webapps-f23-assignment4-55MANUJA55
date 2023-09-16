@@ -1,0 +1,70 @@
+h5{
+    font-size: 17px;
+    color: crimson;
+    font-family: sans-serif;
+}
+.speech{
+    font-size: 16px;
+    color: black;
+}
+.direction{
+    font-size: 12px;
+    color: black;
+    font-family: cursive;
+    background-color: lightblue;
+}
+.direction:hover{
+    background-color: aquamarine;
+    color: darkblue;
+}
+.Dr.Stockmann{
+    font-family: monospace;
+    font-size: 16px;
+    color:blueviolet;
+    text-align: left;
+
+}
+.Mrs.Stockmann{
+    font-family: serif;
+    font-size: 16px;
+    color:mediumvioletred;
+    text-align: left; 
+}
+.Petra{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color:darkcyan;
+    text-align: left; 
+}
+.Horster{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    color:purple;
+    text-align: left;  
+}
+.PeterStockmann{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color:seagreen;
+    text-align: left;  
+}
+.MortenKiil{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color:mediumslateblue;
+    text-align: left;
+}
+.Hovstad{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    color:tomato;
+    text-align: left;
+}
+.Aslaksen{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color:sienna;
+    text-align: left;
+}
+
+
