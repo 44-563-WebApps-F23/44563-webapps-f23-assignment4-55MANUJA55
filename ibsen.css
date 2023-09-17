@@ -159,7 +159,7 @@ a:link {
   
   /* selected link */
   a:active {
-    color:hotpink;
+    color:#11135b;
   }
   ul {
     list-style-type: none;
