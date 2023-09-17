@@ -63,6 +63,27 @@ h5{
     color:sienna;
     text-align: left;
 }
+table,
+th,
+td{
+    border-color: green;
+    color: deeppink;
+    text-align: center;
+    white-space: nowrap;
+    border-style: double;
+    margin: 16px 21px 16px 11px;
+}
+th,
+td{
+    padding: 20px;
+}
+tr:nth-child(even){
+    background-color: lightcoral;
+}
+tr:nth-child(odd){
+    background-color: lightskyblue;
+}
+
 
 
 
