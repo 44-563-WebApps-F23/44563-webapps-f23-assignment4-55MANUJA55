@@ -13,7 +13,10 @@ h5{
     font-family: cursive;
     background-color: lightblue;
 }
-
+.direction:hover{
+    background-color: aquamarine;
+    color: darkblue;
+}
 .DrStockmann{
     font-family: monospace;
     font-size: 16px;
@@ -21,11 +24,25 @@ h5{
     text-align: left;
 
 }
+.DrStockmann:hover{
+    color: black;
+    filter: blur(1.2px);
+    border-style: dotted;
+    text-shadow: navy 2px 0 11px;
+    font-size: 16px;
+}
 .MrsStockmann{
     font-family: serif;
     font-size: 16px;
     color:hsl(139, 81%, 43%);
     text-align: left; 
+}
+.MrsStockmann:hover{
+    color: black;
+    filter: blur(1.2px);
+    border-style: dotted;
+    text-shadow: navy 2px 0 11px;
+    font-size: 16px;
 }
 .Petra{
     font-family: Arial, Helvetica, sans-serif;
@@ -33,11 +50,25 @@ h5{
     color:darkcyan;
     text-align: left; 
 }
+.Petra:hover{
+    color: black;
+    filter: blur(1.2px);
+    border-style: dotted;
+    text-shadow: navy 2px 0 11px;
+    font-size: 16px;
+}
 .Horster{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 16px;
     color:purple;
     text-align: left;  
+}
+.Horster:hover{
+    color: black;
+    filter: blur(1.2px);
+    border-style: dotted;
+    text-shadow: navy 2px 0 11px;
+    font-size: 16px;
 }
 .PeterStockmann{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -45,11 +76,25 @@ h5{
     color:seagreen;
     text-align: left;  
 }
+.PeterStockmann:hover{
+    color: black;
+    filter: blur(1.2px);
+    border-style: dotted;
+    text-shadow: navy 2px 0 11px;
+    font-size: 16px;
+}
 .MortenKiil{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
     color:palevioletred;
     text-align: left;
+}
+.MortenKiil:hover{
+    color: black;
+    filter: blur(1.2px);
+    border-style: dotted;
+    text-shadow: navy 2px 0 11px;
+    font-size: 16px;
 }
 .Hovstad{
     font-family: 'Courier New', Courier, monospace;
@@ -57,11 +102,25 @@ h5{
     color:tomato;
     text-align: left;
 }
+.Hovstad:hover{
+    color: black;
+    filter: blur(1.2px);
+    border-style: dotted;
+    text-shadow: navy 2px 0 11px;
+    font-size: 16px;
+}
 .Aslaksen{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
     color:sienna;
     text-align: left;
+}
+.Aslaksen:hover{
+    color: black;
+    filter: blur(1.2px);
+    border-style: dotted;
+    text-shadow: navy 2px 0 11px;
+    font-size: 16px;
 }
 table,
 th,
